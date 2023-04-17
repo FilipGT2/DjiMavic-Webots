@@ -9,7 +9,7 @@ C++
 
 Installation
 Clone this repository:
-$ git clone https://github.com/your_username/dji-drone-simulation-webots.git
+$ git clone https://github.com/FilipGT2/DjiMavic-Webots.git
 
 Open Webots and set the project path to the root directory of the repository.
 Run the install_dependencies.py script to install the required Python packages:
