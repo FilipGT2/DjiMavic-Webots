@@ -5,7 +5,6 @@ This repository contains a simulation environment for Dji drones using Webots. T
 Requirements:
 Webots (R2021a or newer)
 Python (3.7 or newer)
-C++
 
 Installation
 Clone this repository:
